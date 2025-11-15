@@ -243,23 +243,3 @@ Screenshots / UI Mockups
 [Dashboard Screenshot]
 [Scan Result Screenshot]
 [AI Recommendation Screenshot]
-License
-MIT License © 2025
-WebGuard-SME Security Scanner — empowering SMEs to secure their web presence easily and safely.
-
----
-
-This README covers **everything Option C promised**:
-
-* Full technical explanation  
-* Supabase Edge Function workflow  
-* AI integration  
-* Database & code structure  
-* Setup instructions, API reference, limitations, future scope  
-* Placeholders for screenshots  
-
----
-
-If you want, I can also generate a **ready-to-paste ASCII architecture + workflow diagram** for the README to make it visually appealing. It would replace the plain text architecture section.  
-
-Do you want me to do that?
