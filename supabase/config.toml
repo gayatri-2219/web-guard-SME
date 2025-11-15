@@ -1,0 +1,7 @@
+project_id = "jzqneshmlyhteinickjq"
+
+[functions.scan-website]
+verify_jwt = false
+
+[functions.security-assistant]
+verify_jwt = false
